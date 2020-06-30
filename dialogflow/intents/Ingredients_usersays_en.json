@@ -1,0 +1,153 @@
+[
+  {
+    "id": "06fc06f5-f346-4fcb-b289-9818f1921e89",
+    "data": [
+      {
+        "text": "Display ",
+        "userDefined": false
+      },
+      {
+        "text": "more",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ingredient options",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8b912255-4a2e-45bd-8cc7-da95cc1c8ecd",
+    "data": [
+      {
+        "text": "More ",
+        "userDefined": false
+      },
+      {
+        "text": "Ingredients",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "eb16dd0f-a04a-4179-83e1-900b25e30de0",
+    "data": [
+      {
+        "text": "Show me the ingredients list",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "11a74a40-3ff1-46a4-9cf4-1e510ddd49bb",
+    "data": [
+      {
+        "text": "Ingredients",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "21c44538-e6c4-44ed-b3bc-bd31b899ce8d",
+    "data": [
+      {
+        "text": "Display the ingredients",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " list for ",
+        "userDefined": false
+      },
+      {
+        "text": "Braciole",
+        "alias": "recipes",
+        "meta": "@Recipes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "070f2566-64a4-4aac-8a3b-ff63a10bb8b5",
+    "data": [
+      {
+        "text": "Display the",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ingredients for ",
+        "userDefined": false
+      },
+      {
+        "text": "Brocks Donuts",
+        "alias": "recipes",
+        "meta": "@Recipes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2090354e-ddee-441b-a4b3-144e6a4510e2",
+    "data": [
+      {
+        "text": "What are the",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ingredients for ",
+        "userDefined": false
+      },
+      {
+        "text": "Ram-don",
+        "alias": "recipes",
+        "meta": "@Recipes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e274f076-cde4-431e-9304-4cf6cea89e47",
+    "data": [
+      {
+        "text": "Show me the ingredients list for ",
+        "userDefined": false
+      },
+      {
+        "text": "Brocks Donuts",
+        "alias": "recipes",
+        "meta": "@Recipes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]
