@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/scub3d/Binging-with-Babish/blob/master/media/binging_with_babish.mp4?raw=true">
+<img align="center" src="https://github.com/Scub3d/Binging-with-Babish/blob/master/media/binging_with_babish.gif">
 <br>
 
 # Binging-with-Babish
