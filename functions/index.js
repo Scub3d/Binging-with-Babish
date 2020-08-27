@@ -41,7 +41,7 @@ app.intent('Recipes', (conv) => { // Is called when a user asks for recipes or r
 				};
 			});
 
-			conv.ask('Here of some of the recent recipes');			
+			conv.ask('<speak>Here of some of the recent recipes</speak>');		
 			conv.ask(new Carousel({ // Display the list elements as a carousel
 				title: 'Recent Recipes',
 				items: recipes_data,
@@ -263,8 +263,6 @@ app.intent('Ingredients - OPTION', (conv, params, option) => { // When the user 
 });
 
 function display_recipe(conv, recipe) { // Display the recipe
-	conv.ask('<speak>' + recipe.data().title + '</speak>'); // speak
-
 	conv.ask(new BasicCard({ 
 		title: recipe.data().title,
 		subtitle: recipe.data().date.toDate().toDateString(),

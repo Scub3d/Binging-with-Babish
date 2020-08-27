@@ -1,3 +1,6 @@
+<img align="center" src="https://github.com/scub3d/Binging-with-Babish/blob/master/media/binging_with_babish.mp4?raw=true">
+<br>
+
 # Binging-with-Babish
 Google Assistant app for Binging with Babish
 Works for Phones and Smart Sufaces (and the simulator)
@@ -14,8 +17,7 @@ Note for storage rules: I allowed anyone to read/write to the db while I was dev
 5. Make sure everything looks ok
 7. Enable testing (see dialogflow README)
 8. Test (either in the simulator or a google assistant enabled device linked to the google account your cloud project is under)
-	- Simulator Link: https://console.actions.google.com/project/\<your-gcloud-project-id-here\>/simulator/
-
+	- Simulator Link: https://console.actions.google.com/project/[your-gcloud-project-id-here]/simulator/
 
 #### This probably wont work if you just clone my repo and try to run everything. 
 1. I recommend downloading the Firebase CLI and GCloud SDK's (Always handy)
